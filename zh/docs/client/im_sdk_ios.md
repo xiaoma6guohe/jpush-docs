@@ -9,7 +9,7 @@ App 集成了 IM SDK 就不应再集成 JPush SDK（只提供 Push 功能的 SDK
 要了解极光IM 整体的信息，请参考文档：[极光IM指南](../../guideline/jmessage_guide)。要集成 iOS SDK 请参考文档：[JMessage iOS 集成指南](../../guideline/jmessage_ios_guide)。
 
 
-### Functions 功能
+### Functions 功能如下
 
 极光IM 最核心的功能是 IM 即时消息的功能。
 
